@@ -1,0 +1,18 @@
+# Данные
+train.csv
+test.csv
+sample_submission.csv
+submission.csv
+
+# Временные файлы
+tempCodeRunnerFile*
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Модели
+*.pth
+*.pkl
